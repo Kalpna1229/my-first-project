@@ -16,3 +16,6 @@ The dataset used is included in this repository (My Practice Modified Data.xlsx)
 
 ## 📌 Conclusion
 Basic insights were derived from the dataset to understand patterns and trends.
+
+## 📈 Visualizations
+![Chart](chart.png)
